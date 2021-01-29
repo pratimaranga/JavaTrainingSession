@@ -29,6 +29,8 @@ public class WrapperClassConcept {
 		 
 		 String u ="100A";
 		 Integer.parseInt(u); //output NumberFormatException
+		 
+		 System.out.println("practice work" );
 
 	}
 
